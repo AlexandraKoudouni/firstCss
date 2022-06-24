@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+hr{
+    color: white;
+}
+.alignment{
+    text-align: center;
+    color: darkgoldenrod;
+    background-color:midnightblue;
+    font-family: "Noto Serif", serif;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    color: navy;
+}
+ul{
+    background-color:darkorange;
+    list-style-type: none;
+}
+li:hover{
+    background-color: navy;
+}
+.yellow{
+    color: rgb(209, 228, 69);
+}
+.blue{
+    color: aqua;
+}
